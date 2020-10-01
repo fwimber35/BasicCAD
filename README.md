@@ -1,6 +1,6 @@
 # BasicCAD
 
-**Part 1 the Base**
+**The Base**
 
 ![TheBase](Images/TheBase.png)
 
