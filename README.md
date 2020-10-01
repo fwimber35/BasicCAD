@@ -1,17 +1,4 @@
-
 # BasicCAD
-
-We are creating a caster.
-
----
-## Table of Contents
-* [Table of Contents](#Table-of-Contents)
-* [Base](#Base)
-* [Mount](#Mount)
-* [Fork](#Fork)
-* [Tire](#Tire)
-* [Wheel](#Wheel)
-* [AxleCollarBearings](#AxleCollarBearings)
 
 **The Base**
 
