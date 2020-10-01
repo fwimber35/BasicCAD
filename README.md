@@ -13,7 +13,7 @@ We are creating a caster.
 * [Wheel](#Wheel)
 * [AxleCollarBearings](#AxleCollarBearings)
 
-**Part 1 the Base**
+**The Base**
 
 ![TheBase](Images/TheBase.png)
 
