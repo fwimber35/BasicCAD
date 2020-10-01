@@ -1,17 +1,105 @@
+
 # BasicCAD
 
-**The Base**
+We are creating a caster.
 
-![TheBase](Images/TheBase.png)
+---
+## Table of Contents
+* [Table of Contents](#Table-of-Contents)
+* [Base](#Base)
+* [Mount](#Mount)
+* [Fork](#Fork)
+* [Tire](#Tire)
+* [Wheel](#Wheel)
+* [AxleCollarBearings](#AxleCollarBearings)
 
-https://cvilleschools.onshape.com/documents/3947cf5164693d02cafed0e4/w/23c7aaeca2be2d465fe6b4d9/e/ea51eadba9f8ee33f2e575b3
+## Base
 
-I commpleated The Base I did not have very much trobble making it because the instroctions were relitivley simple and clear. I did however, struggle a little when I needed to use the linear pettern function, but I figered it out after a little bit of thinking and it was all good.
+### Description
 
-**The Mount**
+The first assignment is to create the caster base.  The base's dimensions are 200 mm x 120 mm and 8 mm thick.  It has 6 holes 10 mm wide and 20 mm from the edge equally spaced along the edges.
 
-![TheMount](Images/TheMount.png)
+### Evidence
+[The Base in Onshape](https://cvilleschools.onshape.com/documents/0d70f655203ca304cb3c5b7d/w/f55603f962f6fc74f5548a68/e/41d730c570a8d75fce9f51b6)
 
-https://cvilleschools.onshape.com/documents/3947cf5164693d02cafed0e4/w/23c7aaeca2be2d465fe6b4d9/e/466fa8520292b4232cd4b853
+### Image
 
-I compleated The Mont, I did not have any problemes when completing this assignment due to the instructions being clear.  I liked how in the instruction video he showed multiple different ways you culd make the part and explained the benefites and drawbacks of each methode.
+<img src="https://github.com/OneCHSEngr/BasicCAD/blob/master/images/Base.jpg?raw=true" alt="The Base" width="200">
+
+### Reflection
+
+This was my first Onshape part and [following along with Dr. Shields made it super easy.](https://www.youtube.com/watch?v=93BFUD-HAG8&feature=emb_title&scrlybrkr=5670f0b4)  I learned about 
+* sketching (shortcut **shift-s**)
+* constructions lines (shortcut **Q**)
+* dimensions (shortcut **D**)
+* extruding both add and remove (shortcut key **E**)
+* linear patterns (no shortcut)
+
+Onshape is awesome.  I found it really helpful to rename all my sketches.  It is going to be a GREAT year in engineering.
+
+---
+
+
+## Mount
+
+### Description
+
+### Evidence
+
+### Image
+
+### Reflection
+
+---
+
+
+## Fork
+
+### Description
+
+### Evidence
+
+### Image
+
+### Reflection
+
+---
+
+
+## Tire
+
+### Description
+
+### Evidence
+
+### Image
+
+### Reflection
+
+---
+
+
+## Wheel
+
+### Description
+
+### Evidence
+
+### Image
+
+### Reflection
+
+---
+
+
+## AxleCollarBearings
+
+### Description
+
+### Evidence
+
+### Image
+
+### Reflection
+
+---
