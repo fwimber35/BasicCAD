@@ -33,7 +33,8 @@ For this assignment I had to creat the Fork for the Caster.
 
 https://cvilleschools.onshape.com/documents/3947cf5164693d02cafed0e4/w/23c7aaeca2be2d465fe6b4d9/e/93496fe9977356eb2befa7d6
 
-### Image
+![TheFork](Images/TheFork.png)
+
 
 I compleated the Fork. I had fun making this part because I did not struggle but the part was comlex and took lots of different features to compleat.
 
@@ -46,7 +47,8 @@ For this assignment I had to creat the Tire for the Caster.
 
 https://cvilleschools.onshape.com/documents/3947cf5164693d02cafed0e4/w/23c7aaeca2be2d465fe6b4d9/e/00a202a32d0fbdea329cda0b
 
-### Image
+![TheTire](Images/TheTire.png)
+
 
 I compleated the Tire. This assignment did not take very long because the video was short and even though the part might look complex it is just a simple sketch that turned into a cool shape when I revolved it.
 
