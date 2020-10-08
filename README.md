@@ -16,9 +16,9 @@ I commpleted The Base. I did not have very much trouble making it because the in
 
 ## The Mount
 
-[The Mount]
 For this assignment I had to create the Mount for the Caster.
 
+[The Mount]
 https://cvilleschools.onshape.com/documents/3947cf5164693d02cafed0e4/w/23c7aaeca2be2d465fe6b4d9/e/466fa8520292b4232cd4b853
 
 ![TheMount](Images/TheMount.png)
@@ -45,9 +45,9 @@ I completed the Fork. I had fun making this part because I did not struggle but 
 
 ## Tire
 
-[The Tire]
 For this assignment I had to create the Tire for the Caster.
 
+[The Tire]
 https://cvilleschools.onshape.com/documents/3947cf5164693d02cafed0e4/w/23c7aaeca2be2d465fe6b4d9/e/00a202a32d0fbdea329cda0b
 
 ![TheTire](Images/TheTire.png)
@@ -60,9 +60,9 @@ I completed the Tire. This assignment did not take very long because the video w
 
 ## Wheel
 
-[The Wheel]
 For this assignment I had to create the Wheel for the Caster.
 
+[The Wheel]
 https://cvilleschools.onshape.com/documents/3947cf5164693d02cafed0e4/w/23c7aaeca2be2d465fe6b4d9/e/32c0a0d4df0a1eee6cec15a3
 
 ![TheWheel](Images/TheWheel.png)
