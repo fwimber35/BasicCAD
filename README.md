@@ -84,5 +84,5 @@ https://cvilleschools.onshape.com/documents/3947cf5164693d02cafed0e4/w/23c7aaeca
 ![SmallerBearing](Images/SmallerBearing.png)
 
 ### Reflection
-a
+
 ---
