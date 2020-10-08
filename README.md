@@ -2,7 +2,7 @@
 
 ## The Base
 
-This was my first assignmrnt. I had to create the Base of the Caster.
+This was my first assignment. I had to create the Base of the Caster.
 
 [The Base]
 https://cvilleschools.onshape.com/documents/3947cf5164693d02cafed0e4/w/23c7aaeca2be2d465fe6b4d9/e/ea51eadba9f8ee33f2e575b3
