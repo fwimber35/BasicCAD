@@ -83,6 +83,5 @@ https://cvilleschools.onshape.com/documents/3947cf5164693d02cafed0e4/w/23c7aaeca
 ![AxleAndCollar](Images/AxleAndCollar.png)
 ![SmallerBearing](Images/SmallerBearing.png)
 
-### Reflection
-
+I completed the Axle, Collar and Bearings. I thought this was an interesting project because it involed making multiple parts and conecting them. Now that I am done with all the parts I am exited to start assembiling them to make the caster.
 ---
