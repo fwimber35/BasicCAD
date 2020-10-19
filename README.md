@@ -106,5 +106,4 @@ https://cvilleschools.onshape.com/documents/3947cf5164693d02cafed0e4/w/23c7aaeca
 
 ![FinalAssembly](Images/FinalAssembly.png)
 
-
-
+I now have fully assembled the caster. The final assembly was the most challenging CAD assignment so far. I got stuck a few times. The worst time was when I couldn't figure out how to attach the collars. Eventually, after trying many different things I was able to figure it out and complete the final assembly.
