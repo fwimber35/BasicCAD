@@ -104,7 +104,7 @@ For this assignment I finished making the caster in the final assembly.
 [Final Assembly]
 https://cvilleschools.onshape.com/documents/3947cf5164693d02cafed0e4/w/23c7aaeca2be2d465fe6b4d9/e/8efe6d6203a5debab26185e8
 
-
+![FinalAssembly](Images/FinalAssembly.png)
 
 
 
