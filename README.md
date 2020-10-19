@@ -57,7 +57,6 @@ I completed the Tire. This assignment did not take very long because the video w
 
 ---
 
-
 ## Wheel
 
 For this assignment I had to create the Wheel for the Caster.
@@ -71,7 +70,6 @@ I completed the Wheel. I liked making this part even though I did not think it w
 
 ---
 
-
 ## AxleCollarBearings
 
 For this assignment I had to create the Axle, Collar and Bearings for the Caster.
@@ -84,4 +82,29 @@ https://cvilleschools.onshape.com/documents/3947cf5164693d02cafed0e4/w/23c7aaeca
 ![SmallerBearing2](Images/SmallerBearing2.png)
 
 I completed the Axle, Collar and Bearings. I thought this was an interesting project because it involed making multiple parts and conecting them. Now that I am done with all the parts I am exited to start assembiling them to make the caster.
+
+---
+
+## Sub Assembly
+
+For this assignment I had to make a sub assembly for the caster.
+
+[Sub Assembly]
+https://cvilleschools.onshape.com/documents/3947cf5164693d02cafed0e4/w/23c7aaeca2be2d465fe6b4d9/e/f3cd2540009f560f256eb7d9
+
+
+![SubAssembly](Images/SubAssembly.png)
+
+I completed the sub assembly for the caster. This was an interesting assignment because it involved building things in an assembly which I had not done before. It wasn't too hard to make but I did struggle a little more than I usually do because it was a new type of design.
+
+##  Final Assembly
+
+For this assignment I finished making the caster in the final assembly.
+
+[Final Assembly]
+https://cvilleschools.onshape.com/documents/3947cf5164693d02cafed0e4/w/23c7aaeca2be2d465fe6b4d9/e/8efe6d6203a5debab26185e8
+
+
+
+
 
