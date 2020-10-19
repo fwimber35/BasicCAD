@@ -93,7 +93,7 @@ For this assignment I had to make a sub assembly for the caster.
 https://cvilleschools.onshape.com/documents/3947cf5164693d02cafed0e4/w/23c7aaeca2be2d465fe6b4d9/e/f3cd2540009f560f256eb7d9
 
 
-![SubAssembly](Images/SubAssembly.png)
+![SubAssembly2](Images/SubAssembly2.png)
 
 I completed the sub assembly for the caster. This was an interesting assignment because it involved building things in an assembly which I had not done before. It wasn't too hard to make but I did struggle a little more than I usually do because it was a new type of design.
 
