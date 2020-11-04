@@ -112,13 +112,13 @@ I now have fully assembled the caster. The final assembly was the most challengi
 
 ## Dorothy's Dowel Pins
 
-For this assignment I had to create  .
+For this assignment I had to create Dorothy's Dowel Pins and use them to creat a picture frame.
 
 [Picture Frame]
 https://cvilleschools.onshape.com/documents/00c5329333038ff05b05cd2f/w/050d18cd75614843cff7b6c5/e/c1eb76d454f1c1e655ef83ba
 
 ![PictureFrame](Images/PictureFrame.png)
 
-I completed Dorothy's Dowel Pins and made a picture frame using them.
+I compleated Dorothy's Dowl Pins and The Picture Frame.  I liked the way this assignment was set up. It had clear instroctions so that I knew what to do, but It didn't tell me everything so at the end so I had to problem solve and think to figure it out. I did not struggle very much, but I did have a few bumps here and there as I was compleating the Picture Frame.
 
 ---
