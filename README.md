@@ -107,3 +107,18 @@ https://cvilleschools.onshape.com/documents/3947cf5164693d02cafed0e4/w/23c7aaeca
 ![FinalAssembly](Images/FinalAssembly.png)
 
 I now have fully assembled the caster. The final assembly was the most challenging CAD assignment so far. I got stuck a few times. The worst time was when I couldn't figure out how to attach the collars. Eventually, after trying many different things I was able to figure it out and complete the final assembly.
+
+---
+
+## Dorothy's Dowel Pins
+
+For this assignment I had to create  .
+
+[Picture Frame]
+https://cvilleschools.onshape.com/documents/00c5329333038ff05b05cd2f/w/050d18cd75614843cff7b6c5/e/c1eb76d454f1c1e655ef83ba
+
+![PictureFrame](Images/PictureFrame.png)
+
+I completed Dorothy's Dowel Pins and made a picture frame using them.
+
+---
